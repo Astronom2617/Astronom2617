@@ -34,17 +34,26 @@ profile = {
 
 <div align="left">
 
+**data science**
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=64748b)
 ![pandas](https://img.shields.io/badge/pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=64748b)
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=64748b)
 ![scikit-learn](https://img.shields.io/badge/sklearn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=64748b)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0f172a?style=for-the-badge&logo=xgboost&logoColor=64748b)
+![statsmodels](https://img.shields.io/badge/statsmodels-0f172a?style=for-the-badge&logo=python&logoColor=64748b)
+
+**visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0f172a?style=for-the-badge&logo=python&logoColor=64748b)
+![Seaborn](https://img.shields.io/badge/Seaborn-0f172a?style=for-the-badge&logo=python&logoColor=64748b)
+
+**databases & backend**
 ![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=64748b)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0f172a?style=for-the-badge&logo=sqlalchemy&logoColor=64748b)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=64748b)
 
+**tools**
 ![aiogram](https://img.shields.io/badge/aiogram-0f172a?style=for-the-badge&logo=telegram&logoColor=64748b)
 ![Heroku](https://img.shields.io/badge/Heroku-0f172a?style=for-the-badge&logo=heroku&logoColor=64748b)
-![Railway](https://img.shields.io/badge/Railway-0f172a?style=for-the-badge&logo=railway&logoColor=64748b)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=64748b)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=64748b)
 
 </div>
@@ -53,8 +62,7 @@ profile = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Astronom2617&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&icon_color=475569&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astronom2617&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8"/>
+![streak](https://streak-stats.demolab.com?user=Astronom2617&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=475569&fire=94a3b8&currStreakLabel=e2e8f0&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=475569)
 
 </div>
 
