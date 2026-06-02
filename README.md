@@ -1,18 +1,15 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Tymur%20Novikov&fontSize=36&fontColor=e2e8f0&fontAlignY=65&desc=Data%20Science%20%C2%B7%20Nova%20IMS%2C%20Lisbon&descAlignY=85&descSize=14&descColor=94a3b8" width="100%"/>
-
 </div>
-
 <br/>
 
 ```python
 profile = {
     "studying":   "Data Science @ Nova IMS, Lisbon — 2nd year",
     "approach":   "baseline → evaluate → improve (repeat until it makes sense)",
-    "currently": "seeking DS internship · building portfolio",
+    "currently":  "seeking DS internship · building portfolio",
     "next":       "Deep Learning · Text Mining · Capstone — fall 2026",
-    "goal":       "DS internship in Europe, autumn–winter 2026",
+    "goal":       "DS internship in Europe, summer–winter 2026",
 }
 ```
 
@@ -41,6 +38,7 @@ profile = {
 ![scikit-learn](https://img.shields.io/badge/sklearn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=64748b)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0f172a?style=for-the-badge&logo=xgboost&logoColor=64748b)
 ![statsmodels](https://img.shields.io/badge/statsmodels-0f172a?style=for-the-badge&logo=python&logoColor=64748b)
+![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-0f172a?style=for-the-badge&logo=python&logoColor=64748b)
 
 **visualization**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0f172a?style=for-the-badge&logo=python&logoColor=64748b)
@@ -50,6 +48,7 @@ profile = {
 ![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=64748b)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0f172a?style=for-the-badge&logo=sqlalchemy&logoColor=64748b)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=64748b)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=64748b)
 
 **tools**
 ![aiogram](https://img.shields.io/badge/aiogram-0f172a?style=for-the-badge&logo=telegram&logoColor=64748b)
