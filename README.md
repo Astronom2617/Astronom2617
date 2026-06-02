@@ -10,7 +10,7 @@
 profile = {
     "studying":   "Data Science @ Nova IMS, Lisbon — 2nd year",
     "approach":   "baseline → evaluate → improve (repeat until it makes sense)",
-    "currently":  "fraud detection on 284k transactions, 0.17% positive class",
+    "currently": "seeking DS internship · building portfolio",
     "next":       "Deep Learning · Text Mining · Capstone — fall 2026",
     "goal":       "DS internship in Europe, autumn–winter 2026",
 }
